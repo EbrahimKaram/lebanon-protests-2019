@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "Lebanon Protests Worldwide\/20\/10\/2019التظاهرات_اللبنانية_حول_العالم",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Munich - Germany\n", "description": "ميونيخ-ألمانيا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 11.5837211, 48.1373743, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Milan-Italy\n", "description": "ميلانو- إيطاليا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 9.1755361, 45.4682551, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Paris - France\n", "description": "باريز - فرنسا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 2.2929866, 48.8561709, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Toulouse - France\n", "description": "تولوز - فرنسا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 1.444514, 43.6098835, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Toronto - Canada\n", "description": "تورونتو - كندا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ -79.4178835, 43.6779743, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Ottawa - Canada\n", "description": "أتوا - كندا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ -75.6972601, 45.4427313, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "London - UK\n", "description": "لندن - يونايتد كينجدوم", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ -0.19251, 51.5078773, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Barcelona - Spain\n", "description": "برشلونة - إسبانيا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 2.1777865, 41.3759004, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "The Hague - Holland\n", "description": "لاهاي - هولندا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3019719, 52.0752263, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Madrid - Spain\n", "description": "مدريد - إسبانيا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ -3.690437, 40.4521411, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Lyon - France\n", "description": "ليون - فرنسا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.8315712, 45.7567623, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Berlin - Germany\n", "description": "برلين - ألمانيا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 13.378301, 52.5163278, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Brussels - Belgium\n", "description": "بروكسل - بلجيكا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 4.3517007, 50.8547432, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Vancouver - Canada \n", "description": "فانكوفر كندا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ -123.120464, 49.2831115, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Los Angeles - USA\n", "description": "لوس أنجلوس - الولايات المتحدة الأمريكية", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ -118.2581959, 34.0495212, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Melbourne -  Australia \n", "description": "ملبورن - استراليا", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 144.9624981, -37.7669028, 0.0 ] } }
+]
+}

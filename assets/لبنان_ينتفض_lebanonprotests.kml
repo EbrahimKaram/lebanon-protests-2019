@@ -1,0 +1,2818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>لبنان_ينتفض_lebanonprotests</name>
+    <description><![CDATA[المناطق اللي عم يصير فيها مظاهرات وقطع طرقات - ١٧\١٠\٢٠١٩<br><br>blocked roads and protests in Lebanon on the night of the 17th of October ]]></description>
+    <Style id="icon-1502-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1556-757575-normal">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1556-757575-highlight">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1556-757575">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1556-757575-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1556-757575-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>occupied since/ مقطوع منذ / 17/10</name>
+      <Placemark>
+        <name>Beddaoui - Akkar Highway</name>
+        <description>اتوستراد البداوي - عكار</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8756687,34.4562945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tripoli - Sahet Al Nour</name>
+        <description>طرابلس - ساحة النور</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8306022,34.4206313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beseb3el
+</name>
+        <description>بسبعل</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8863996,34.3567118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jabal Mohsen - Tripoli</name>
+        <description>جبل محسن - طرابلس</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8577003,34.4443025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Syria Street - Tebbaneh</name>
+        <description>شارع سوريا - التبانة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8518638,34.44317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fouar - Deniye Road</name>
+        <description>طريق الفوار - الضنية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8783855,34.4307819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zgharta - Aqbeh</name>
+        <description>زغرتة - العقبة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8976116,34.3918362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jbeil - Byblos</name>
+        <description>جبيل‎</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6511931,34.1226277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ghazir</name>
+        <description>غزير</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6647806,34.0178874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jounieh</name>
+        <description>جونية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6406792,33.9866927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nahr El Mot</name>
+        <description><![CDATA[نهر الموت<br>‎‎]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5662126,33.8966701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dawra</name>
+        <description>دورة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5514497,33.8938203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Beirut - Ring</name>
+        <description><![CDATA[بيروت - الرنغ<br>‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.506205,33.8922094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beirut - Riad Al Solh</name>
+        <description><![CDATA[بيروت - رياض الصلح<br>‎‎‎]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.5027357,33.8950962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beirut - Hamra</name>
+        <description>بيروت - حمرا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4899401,33.8952743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Highway to Beirut - facing Palma</name>
+        <description>اتوستراد البالما - اتجاه بيروت</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8207711,34.4104913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tell Abbass - Akkar</name>
+        <description>مفرق تل عباس - عكار‎</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.0890236,34.5741997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riyak - Baalbek Road</name>
+        <description>طريق رياق - بعلبك</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.0539018,33.9013525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Bhamdoun</name>
+        <description>بحمدون‎</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6595015,33.8067027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kahale</name>
+        <description>كحالة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5859096,33.8276267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Salim Slem</name>
+        <description><![CDATA[نفق سليم سلام<br>‎‎‎ - مفتوح<br>‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.4950768,33.8747718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barja Highway</name>
+        <description>اتوستراد برجا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4433776,33.6498517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nabatiyeh</name>
+        <description>نبطية - السراي الحكومي - جسر حبوش</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.493075,33.3698468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Sour - Tyre - Entrance</name>
+        <description><![CDATA[مدخل صور<br>‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.2254458,33.2867793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saida - Elia Roundabout 
+</name>
+        <description><![CDATA[صيدا‎ - دوار ايليا<br>‎]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.378417,33.5611681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beirut - Achrafieh -Fassouh </name>
+        <description><![CDATA[بيروت - أشرفية - فسوح-<br>‎]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5241758,33.8919424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beirut - Achrafieh - Spinneys
+</name>
+        <description>بيروت - أشرفية - سبينيز</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5197019,33.8920315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khalde</name>
+        <description>خلدة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4803487,33.7889555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiyah - Mar Mikhael Intersection</name>
+        <description>تقاطع مار مخايل - الشياح</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5193801,33.8577143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chekka</name>
+        <description>شكا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.7306696,34.3260684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Al Amine Mosque
+</name>
+        <description><![CDATA[جامع الأمين<br>‎‎‎ <br>‎]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.5065265,33.8951335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Highway </name>
+        <description>اتوستراد‎</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5206572,33.8973287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mazraet Yashouh
+</name>
+        <description><![CDATA[مزرعة يشوع<br>‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.6362849,33.9300933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mhamra</name>
+        <description>محمرة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.9653965,34.5061608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aabdeh</name>
+        <description>عبدة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.969369,34.5107729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hissa</name>
+        <description>حيصا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.0575294,34.5873188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hosniyeh 
+</name>
+        <description>مفرق الحصنية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.0290996,34.5273939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marjaayoun
+</name>
+        <description>مرجعيون</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5890569,33.3597796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jiyeh - Highway</name>
+        <description>اتوستراد الجية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.428103,33.6702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abboudiye</name>
+        <description>العبودية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.1170206,34.6340719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halba square
+</name>
+        <description>ساحة حلبا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.079707,34.5442306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saadnayel</name>
+        <description>سعدنايل</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8823688,33.8209852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taalbaya</name>
+        <description>تعلبايا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8641503,33.8169026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jlala</name>
+        <description>جلالا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8603696,33.8160605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nahr Ibrahim</name>
+        <description>نهر ابراهيم</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6450118,34.0662027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tell Nhas</name>
+        <description>مثلث تل نحاس</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5652552,33.3121769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bint Jbeil 
+</name>
+        <description>بنيت جبيل - السراي الحكومي</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4336424,33.1209903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tallet Loubiye Main Road</name>
+        <description>- طريق عام مرجعيون النبطية - تلة لوبية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5487852,33.3214814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Houla - Near the UNIFIL
+</name>
+        <description>حولا بالقرب من مركز اليونيفيل</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5162309,33.2094339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chtoura</name>
+        <description>شتورة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8534356,33.8151275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Majdal Aanjar
+</name>
+        <description>مجدل عنجر</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.91823,33.7136218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ghobeiry</name>
+        <description>غبيري</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5032479,33.8596109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mcharrafieh</name>
+        <description>المشرفية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5117163,33.8594721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zahrani</name>
+        <description>الزهراني</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.2590157,33.3563158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dahr El Ain</name>
+        <description>ضهر العين</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8458114,34.3916292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anfeh bridge
+</name>
+        <description>جسر انفه</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.7433375,34.3507647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kousba Roundabout</name>
+        <description>مستديرة كوسبا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8497251,34.2997084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qab Elias</name>
+        <description>قب الياس</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8225668,33.7934104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Masnaa
+</name>
+        <description>مصنع</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.9207026,33.7031064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sawfar</name>
+        <description>صوفر‎‎‎</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.7006592,33.7996806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tareek Jdeede
+</name>
+        <description>طريق الجديدة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5016511,33.8722562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haret El Naameh</name>
+        <description>حارة الناعمة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4542427,33.7392355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chatila</name>
+        <description>شاتيلا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4991577,33.8641448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aaraya</name>
+        <description>عاريا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5927758,33.8293949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naqoura
+</name>
+        <description>ناقورة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.1402089,33.1185227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joub Jannine
+</name>
+        <description>جب جنين</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.7826898,33.6309428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bechara el Khoury
+</name>
+        <description>بشارة الخوري</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5064291,33.8871119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minieh near Bankmed
+</name>
+        <description>طريق المنية مقابل بنك البحر المتوسط</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.9325756,34.4787313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miryata</name>
+        <description>مرياطا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.9314986,34.4184306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Antelias</name>
+        <description>انطلياس</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.5840031,33.9179964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aisha Bakkar
+</name>
+        <description>عائشة بكار</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4842706,33.8876008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hermel</name>
+        <description>هرمل</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.3854112,34.3954968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boqaata</name>
+        <description>بقعاتا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5998914,33.6698223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beiteddine</name>
+        <description>بيت الدين</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5809364,33.6948526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sin El Fil - Saloumi</name>
+        <description><![CDATA[سن الفيل - صالومي‎<br>‎‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.5400057,33.8811406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mansouri</name>
+        <description>المنصوري</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.1933057,33.1791389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mafra2 Qana
+</name>
+        <description>مفرق قانا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.2950709,33.2105593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Batroun</name>
+        <description>بترون</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6666345,34.2499049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mkalless Roundabout
+</name>
+        <description>مستديرة  المكلس</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.5424554,33.8691218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Sin El Fil - Al Hayek Roundabout
+</name>
+        <description><![CDATA[سن الفيل - مستديرة الحايك<br>‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.5402886,33.8777192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Douris Roundabout
+</name>
+        <description>مستديرة دوريس‎</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.1799074,33.9955486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Jeita Main Road
+</name>
+        <description><![CDATA[جعيتا - الطريق العام (اتجاهين)<br>‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.6402138,33.9545253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brital Rd
+</name>
+        <description>طريق بريتال‎</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.1225909,33.949692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ablah</name>
+        <description>أبلح</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.9587162,33.8669123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Furn el Chebbak
+</name>
+        <description>فرن الشباك</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5215113,33.8734363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Zahle</name>
+        <description><![CDATA[زحلة‎- السراي<br>‎  مفتوح]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.9030088,33.8457519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Adlieh</name>
+        <description>عدليه‎</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.5209125,33.8792818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sin El Fil - Fouad Chehab
+</name>
+        <description>سن الفيل - فؤاد شهاب</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.5414352,33.872931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jounieh Square
+</name>
+        <description>ساحة جونية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6320231,33.9835503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Safra</name>
+        <description>اتوستراد الصفرا‎ بالاتجاهين‎‎</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6292725,34.0390175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tripoli - Azmi
+</name>
+        <description>عزمي - طرابلس</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8361508,34.440001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zouk Highway
+</name>
+        <description>اتوستراد الزوق</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.6076303,33.9675485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kfarhazir</name>
+        <description>كفرحزير</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.77247,34.3104456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jal El Dib Highway and coast
+</name>
+        <description><![CDATA[اتوستراد جل الديب<br>‎‎ والطريق البحري<br>‎]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5794676,33.9101257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Airport Old Road
+</name>
+        <description><![CDATA[طريق المطار القديمة<br>‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.4971146,33.8400348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>occupied since/ مقطوع منذ / 18/10</name>
+      <Placemark>
+        <name>Al Sayad Roundabout
+</name>
+        <description>جسر بعبدا - اتجاه الصياد</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5395616,33.8622785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tyre Rest House
+</name>
+        <description>استراحة صور</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.2080081,33.2637703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jisr El Wati
+</name>
+        <description>جسر الواطي</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5304732,33.8846212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tripoli - Madfoun Highway
+</name>
+        <description>اتوستراد طرابلس - المدفون</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6517471,34.2100786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Roumieh Highway</name>
+        <description>اتوستراد رومية‎</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.5975066,33.8939085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jidta</name>
+        <description>جديتا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.840914,33.817715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mar Elias - Karakol Druze</name>
+        <description>مار اليس -كركول الدروز</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4905943,33.8903645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ministry of Interior</name>
+        <description>وزارة الداخلية بيروت</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4894743,33.8953074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mar Mikhael - Jesr el Hadid</name>
+        <description>مار مخايل - جسر الحديد</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5332498,33.8962527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bir el Sanesel - Kherbet Selem</name>
+        <description>بئر السناسل - خربة سلم</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4110887,33.2273411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saifi</name>
+        <description>الصيفي بيروت</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5091853,33.8949568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kfarhazir Exit</name>
+        <description>مدخل كفرحزير‎</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.7333512,34.3215736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amchit Highway</name>
+        <description>اتوستراد عمشيت بالاتجاهين</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6336267,34.1486314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casino - Highway</name>
+        <description>اتوستراد - الكازينو</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6423344,34.0162778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Verdun</name>
+        <description>بيروت فردان</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4839799,33.8904067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Western Bekaa Rd Kefraya</name>
+        <description>طريق البقاع الغربي - كفريا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.7377871,33.6685546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sarafand - Highway
+</name>
+        <description>اتوستراد الصرفند</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.3150906,33.451313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casino - Coastal Rd</name>
+        <description>الطريق البحري - الكازينو</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6416477,34.0136811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minyara</name>
+        <description>منيارة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.0591427,34.5368263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baakline Roundabout
+</name>
+        <description><![CDATA[دوار بعقلين بيت الدين <br>‎]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5572758,33.6798451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Cola</name>
+        <description>كولا‎</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.4952273,33.8764128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corniche Al Mina Tripoli
+</name>
+        <description>كورنيش المينا - طرابلس</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8077933,34.4535289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ghaziyeh Highway Exit
+</name>
+        <description>مفرق الغازية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.3627125,33.5189696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aley Roundabout
+</name>
+        <description><![CDATA[مستديرة عاليه<br>‎‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.6090181,33.814173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corniche el Mazraa
+</name>
+        <description>كورنيش المزرعة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4944573,33.8795907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mirna Chalouhi Highway - Centre Habib
+</name>
+        <description><![CDATA[طريق ميرنا شالوحي<br>‎‎‎ - سانتر حبيب]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.5458707,33.8845634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barja Highway Exit 
+</name>
+        <description>مفرق برجا - الاتوستراد</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4243948,33.6573297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tyr access Rd
+</name>
+        <description>الطريق المؤدية إلى صور‎</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.2206384,33.2282205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bint Jbeil access Rd
+</name>
+        <description>الطريق المؤدية إلى بنت جبيل</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.2329966,33.2474164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marjaayoun/Nabatiye access road
+</name>
+        <description><![CDATA[الطريق المؤدية إلى مرجعيون والنبطية<br>‎]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.2815528,33.3689553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Okaibeh - Coastal Rd
+</name>
+        <description><![CDATA[الطريق البحري - العقيبة<br>‎]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6438439,34.0623853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akkar - Khraybet el Jundi
+</name>
+        <description>عكار - مفرق خريبة الجندي</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.0830611,34.5625965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anfeh-Batroun Coastal Rd
+</name>
+        <description>طريق انفه - البترون البحرية</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.7722806,34.3819832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laboueh - Beqaa
+</name>
+        <description><![CDATA[طريق الدولية بزلية - لبوة - بقاع<br>‎‎]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.3528564,34.1961638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biret Akkar - Qoubayat Rd
+</name>
+        <description>طريق البيرة - القبيات - عكار</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.2615062,34.5826815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ghazze - Joub Jannine Highway
+</name>
+        <description>اتوستراد غزة - جب جنين</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8108551,33.6481922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beit Meri Roundabout
+</name>
+        <description><![CDATA[بيت مري <br>مستديرة]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6076992,33.8700803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mouthalath Qalawiye
+</name>
+        <description>مثلث القلوية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.422632,33.2636994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ghandouriye</name>
+        <description>الغندورية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4325325,33.2732332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Froun</name>
+        <description>الفرون</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4285182,33.2964096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deir Kifa
+</name>
+        <description>دير كيفا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.3987586,33.2586682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Srifa</name>
+        <description>صريفا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.3968848,33.2811528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kfar Roummane Roundabout
+</name>
+        <description>مستديرة كفر رمان</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4907648,33.3895667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mafra' el Marwaniye
+]]></name>
+        <description><![CDATA[مفرق المروانية<br>‎]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.3931665,33.4545556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saida - Corniche
+</name>
+        <description><![CDATA[الكورنيش صيدا<br>‎‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.3737728,33.5664147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saksakiyeh Highway
+</name>
+        <description>اتوستراد السكسكية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.306788,33.4284986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Qasmiyeh Bridge
+</name>
+        <description><![CDATA[جسر القاسمية، قبل مقام النبي ساري<br>‎ -مفتوح]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.2489637,33.3245173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Msayleh Highway
+</name>
+        <description>اتوستراد المصيلح</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.3486505,33.480666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wadi Al Zineh Road
+</name>
+        <description>طريق وادي الزيني</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4054378,33.6247479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spears</name>
+        <description><![CDATA[شارع سبيرز<br>‎]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.4956679,33.8947864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kousba Main Road
+</name>
+        <description>الطريق العام في كوسبا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8479508,34.3019619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Furn el Chebbak  - Abraj
+</name>
+        <description>فرن الشباك - أبراج</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5230417,33.8688633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Furn El Chebbak - Alfa
+</name>
+        <description>فرن الشباك - ألفا</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5289211,33.8662798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beirut - Hippodrome
+</name>
+        <description>بيروت - سبق الخيل</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5108385,33.878596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beirut - Ras El Nabeh
+</name>
+        <description>بيروت - راس النبع</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.506982,33.881455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tayouneh - Downtown - every 200m
+</name>
+        <description>قطع طريق كل ٢٠٠ متر من الطيونة إلى وسط المدينة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5110243,33.8732889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tayouneh - Downtown - every 200m</name>
+        <description>قطع طريق كل ٢٠٠ متر من الطيونة إلى وسط المدينة‎</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5072368,33.8771741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tayouneh - Downtown - every 200m</name>
+        <description><![CDATA[قطع طريق كل ٢٠٠ متر من الطيونة إلى وسط المدينة<br>‎]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.513717,33.8709455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mansourieh</name>
+        <description>منصورية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5685625,33.8583774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zgharta - Koura Highway
+</name>
+        <description><![CDATA[اتوستراد زغرتا - الكورة<br>‎كنيسة مار جرجس]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8982508,34.3672025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_ Hasbaya-Bekaa Road / Wede Maimes
+</name>
+        <description><![CDATA[طريق حاصبيا - البقاع، وادي ميمس<br>‎‎ - مفتوح]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.6984701,33.4358369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saida - Sidon - Riad Al Solh Road 
+</name>
+        <description>صيدا - شارع رياض الصلح، محلة بوابة الفوقا</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.3810468,33.5754418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sarba Highway - near Soldini
+</name>
+        <description>اتوستراد صربا، قرب سولديني</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6266197,33.9779866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zouk Mikael - Coastal Rd
+</name>
+        <description><![CDATA[طريق البحري - زوق مكايل<br>‎]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6060031,33.968603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON/OFF_Airport Road
+</name>
+        <description><![CDATA[طريق المطار<br>‎ قطع في ٢٠ نقطة‎‎ فتح مؤقط ومتقطع]]></description>
+        <styleUrl>#icon-1502-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.4936871,33.8461461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON/OFF_Airport Road - 20 blocks
+</name>
+        <description><![CDATA[طريق المطار<br>‎ قطع في ٢٠ نقطة‎‎ فتح مؤقط ومتقطع]]></description>
+        <styleUrl>#icon-1502-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.493524,33.852656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON/OFF_Airport Road - 20 blocks
+</name>
+        <description><![CDATA[طريق المطار<br>‎ قطع في ٢٠ نقطة‎‎ فتح مؤقط ومتقطع]]></description>
+        <styleUrl>#icon-1502-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.4936013,33.8587271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON/OFF_Airport Road - 20 blocks
+</name>
+        <description><![CDATA[طريق المطار<br>‎ قطع في ٢٠ نقطة‎‎ فتح مؤقط ومتقطع]]></description>
+        <styleUrl>#icon-1502-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.4939875,33.8407996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qya3a and Qinaya Access Road
+</name>
+        <description>طريق القياعة والقناية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.3859886,33.5618674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qya3a and Qinaya Access Road</name>
+        <description>طريق القياعة والقناية</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.3866923,33.5662403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beqaa - Khiara
+</name>
+        <description>خيارة - البقاع الغربي</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8407702,33.6940122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halat Highway</name>
+        <description>اتوستراد حالات</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.6512078,34.0848672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amioun Highway</name>
+        <description>اتوستراد اميون</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8081819,34.2994339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bcharre- Arz Highway</name>
+        <description>اتوستراد بشري - الأرز</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.0112719,34.2567736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ras Masqa - Dahr El Ain Roundabout</name>
+        <description>مستديرة راسمسقا - ضهر العين ‎</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8414516,34.3965508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wadi Khaled Road</name>
+        <description>طريق وادي خالد‎</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.3784685,34.5775561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jezzine Municipality</name>
+        <description>جزين - القصر البلدي</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5830566,33.5451192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Berqayel - Dawra</name>
+        <description>برقايل - كوع الدورة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.0351396,34.4770472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abou Samra - Tripoli</name>
+        <description>ابو سمرا طرابلس</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.8427621,34.4289969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dbayeh - Le Royal - Highway</name>
+        <description>ضبية - لورويال- اتوستراد</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5927798,33.9486843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mtayleb road</name>
+        <description>طريق المطيلب</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.6071728,33.9225084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dahr El Baidar - Makseh</name>
+        <description>ضهر البيدر -محلة المكسة</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.7681075,33.813326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Faour</name>
+        <description>الفاعور</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            35.5968997,33.9132569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Al Assi Bridge
+</name>
+        <description>جسر العاصي</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            36.414697,34.3915105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>OPEN - تم فتحها</name>
+      <Placemark>
+        <name>OPEN_Adloun</name>
+        <description><![CDATA[عدلون<br>‎ - أبو الأسود]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.264844,33.3652903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Dekwaneh Square
+</name>
+        <description><![CDATA[ساحة الدكوانة<br>‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.5498724,33.8782179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Achkout</name>
+        <description>عشقوت‎</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.7084977,33.9842674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Tarshish-Zahle Rd
+</name>
+        <description><![CDATA[طريق ترشيش - زحلة مفتوح<br>‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.8366137,33.8674066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Beirut - Ain Mraisseh
+</name>
+        <description><![CDATA[بيروت - عين المريسة<br>‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.4982863,33.9019345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Tripoli - Madfoun Coastal Rd
+</name>
+        <description>طريق البحري طرابلس - المدفون سالك</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.6490874,34.2112204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Nahr El Kalb
+</name>
+        <description><![CDATA[نهر الكلب<br>‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.5982574,33.9560315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Baalbek</name>
+        <description>بعلبك‎</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            36.2074609,34.0057175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Kfarabida</name>
+        <description>كفرعبيدا‎</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.6582005,34.2369619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OPEN_Baabda Highway - Furn el Chebbak
+</name>
+        <description><![CDATA[اتوستراد بعبدا - فرن الشباك<br>‎]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.5302788,33.8618163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>occupied since/ مقطوع منذ / 19/10</name>
+      <Placemark>
+        <name>Zgharta- North Lebanon College
+</name>
+        <description>زغرتا - نورث ليبانون كوليج</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.8906307,34.3581812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sawfar
+</name>
+        <description>طريق صوفر - الرويسات</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.6968258,33.8026619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sawfar - Mdayrej Bridge
+</name>
+        <description>صوفر-جسر المديرج ‎</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.7299061,33.7986995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bechara El Khoury Street
+</name>
+        <description>بشارة الخوري</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.5062878,33.8926731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maloule Highway
+</name>
+        <description>اتستراد الملولة بالاتجاهين</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.8499575,34.4466375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Old Saida Road - Mafra' DeirKoubel
+]]></name>
+        <description>طريق صيدا القديم - مفرق دير قوبل</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.4962648,33.8044738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qlaileh</name>
+        <description>القليلة</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.2091953,33.2007563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Presidential Palace Exit
+</name>
+        <description>مفرق القصر الجمهوري</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.5369117,33.8529627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madine Riyadiye - Cola Highway
+</name>
+        <description>طريق المدينة الرياضية - الكولا</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            35.4945993,33.8669693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barsa - Al Samriye Road - Forn Lebnan El Akhdar
+</name>
+        <description><![CDATA[طريق السامرية - برسا<br>‎- أمام فرن لبنان الأخضر<br>‎]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.8462983,34.3756425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Choueifat - Mshrfiye Station
+</name>
+        <description>الشويفات - طرمبة المشرفية</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.5149852,33.8078535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wadi El Jamous
+</name>
+        <description>وادي الجاموس</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            36.0130108,34.5001669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ouzai - Sultan Brahim Bridge
+</name>
+        <description>اوزاعي - جسر السلطان ابرايهم</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.4896838,33.8600592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Choueifat - Mafra' el Damna
+]]></name>
+        <description><![CDATA[الشويفات - طريق صيدا القديم - مفرق الضمان<br>‎]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.5259961,33.8258485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bekaa-South Road - Souk el Khan
+</name>
+        <description>طريق البقاع - الجنوب، سوق الخان</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.6393135,33.3855954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beirut - Sassine 
+</name>
+        <description>بيروت - ساحة ساسين</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.5209054,33.8872586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zgharta - Nafaa Road
+</name>
+        <description>طريق النافعة - زغرتا</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.8823457,34.4278837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mafra' Adoueh
+]]></name>
+        <description>مفرق عدوة</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.9814143,34.4497419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mina Road - Centrale
+</name>
+        <description>قطع طريق المينا عند السنترال</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.836372,34.4349134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Al 3ahed bridge
+</name>
+        <description>جسر ملعب العهد</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.4900314,33.8398715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khalde - Ouzai Road
+</name>
+        <description>طريق خلدة - اوزاعي بالاتجاهين</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.478316,33.7950913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Al-Akbiyeh Exit
+</name>
+        <description>مفرق صلوب العقبية</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.3221015,33.4665252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Majdalaiya</name>
+        <description>مجدليّا</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.8674644,34.4163697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maghdoucheh Exit
+</name>
+        <description>مفرق مغدوشة</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.3681106,33.5315252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rahbeh Access Rd
+</name>
+        <description>طريق رحبة</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            36.1466133,34.5087325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mirna Chalouhi - Galerie al-Ittihad
+</name>
+        <description>ميرنا شالوحي - غاليري الاتحاد</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.5588418,33.8923322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mouthallath al Khiam
+</name>
+        <description>مثلث الخيام</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.6164576,33.3369944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bchamoun main road
+</name>
+        <description>بشامون الطريق العام</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.5273137,33.7824777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dohat Aramoun
+</name>
+        <description>دوحة عرمون</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.487694,33.7985046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hellaniyeh Road
+</name>
+        <description>طريق الحلانية</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            36.0386613,33.8890272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mafra' Dar B3eshtar - Khan Bziza
+]]></name>
+        <description><![CDATA[مفرق دار بعشتار، خان بزيزا<br>‎]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.8035548,34.2657772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bsarma</name>
+        <description>بصرما</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.8400524,34.3310251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Serail - Barbwire
+</name>
+        <description>سلاك شائك - سراي</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.4998367,33.8945174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jdeidet el Matn
+</name>
+        <description>قطع طريق جديدة المتن</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.5621842,33.8923977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Lives lost - ضحايا</name>
+      <Placemark>
+        <name>طرابلس - ١
+‎</name>
+        <description>https://arbne.ws/2Bsf96w</description>
+        <styleUrl>#icon-1556-757575</styleUrl>
+        <Point>
+          <coordinates>
+            35.8306022,34.4206313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>طريق المطار القديم - ١
+‎</name>
+        <description>https://bit.ly/2J3HF2w</description>
+        <styleUrl>#icon-1556-757575</styleUrl>
+        <Point>
+          <coordinates>
+            35.4970716,33.8397496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>بيروت - ٢
+‎‎</name>
+        <description>https://bit.ly/33HFOrW</description>
+        <styleUrl>#icon-1556-757575</styleUrl>
+        <Point>
+          <coordinates>
+            35.5063208,33.8933525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>occupied since/ مقطوع منذ / 20/10Untitled layer</name>
+      <Placemark>
+        <name>Deir el Qamar
+</name>
+        <description>دير القمر- مسيرة إلى كفرحيم</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.5592463,33.6969857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kfarhim</name>
+        <description>كفرحيم- مسيرة من دير القمر</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.5219099,33.6887018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Lebanon Protests Worldwide/20/10/2019التظاهرات_اللبنانية_حول_العالم </name>
+      <Placemark>
+        <name>Munich - Germany
+</name>
+        <description>ميونيخ-ألمانيا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            11.5837211,48.1373743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milan-Italy
+</name>
+        <description>ميلانو- إيطاليا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            9.1755361,45.4682551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paris - France
+</name>
+        <description>باريز - فرنسا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            2.2929866,48.8561709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toulouse - France
+</name>
+        <description>تولوز - فرنسا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            1.444514,43.6098835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toronto - Canada
+</name>
+        <description>تورونتو - كندا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4178835,43.6779743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ottawa - Canada
+</name>
+        <description>أتوا - كندا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            -75.6972601,45.4427313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London - UK
+</name>
+        <description>لندن - يونايتد كينجدوم</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            -0.19251,51.5078773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barcelona - Spain
+</name>
+        <description>برشلونة - إسبانيا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            2.1777865,41.3759004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Hague - Holland
+</name>
+        <description>لاهاي - هولندا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            4.3019719,52.0752263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madrid - Spain
+</name>
+        <description>مدريد - إسبانيا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            -3.690437,40.4521411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lyon - France
+</name>
+        <description>ليون - فرنسا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            4.8315712,45.7567623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Berlin - Germany
+</name>
+        <description>برلين - ألمانيا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            13.378301,52.5163278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussels - Belgium
+</name>
+        <description>بروكسل - بلجيكا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            4.3517007,50.8547432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vancouver - Canada 
+</name>
+        <description>فانكوفر كندا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            -123.120464,49.2831115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Angeles - USA
+</name>
+        <description>لوس أنجلوس - الولايات المتحدة الأمريكية</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2581959,34.0495212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Melbourne -  Australia 
+</name>
+        <description>ملبورن - استراليا</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            144.9624981,-37.7669028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
